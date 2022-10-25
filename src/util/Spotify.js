@@ -1,5 +1,5 @@
 const clientId = "f930a2bbd12e4b67be3c2d44c9dc5de3"; //delete this before putting on GitHub
-const redirectUri = "http://localhost:3001/";
+const redirectUri = "https://chemical-pickle.surge.sh/";
 
 let accessToken = "";
 
